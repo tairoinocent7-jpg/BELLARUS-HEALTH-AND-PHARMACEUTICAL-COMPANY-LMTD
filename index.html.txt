@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pharma Marketing Solutions</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+    <title>Pharma Marketing Solutions</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Pharma Marketing Solutions</h1>
+        <p>Strategic marketing for hospitals, pharmaceutical brands, and healthcare professionals</p>
+
+        <nav>
+            <a href="#about">About</a>
+            <a href="#services">Services</a>
+            <a href="#clients">Who We Serve</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <!-- About Section -->
+    <section id="about">
+        <h2>About Us</h2>
+        <p>
+            We specialize in pharmaceutical marketing, providing strategic promotion
+            solutions that connect healthcare products with the right audience while
+            maintaining industry standards and compliance.
+        </p>
+    </section>
+
+    <!-- Compliance Section -->
+    <section id="compliance">
+        <h2>Compliance & Ethics</h2>
+        <p>
+            All marketing activities are conducted in accordance with pharmaceutical
+            industry regulations and ethical guidelines.
+        </p>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Pharmaceutical Product Promotion</li>
+            <li>Medical Representative Training</li>
+            <li>Brand Strategy & Market Research</li>
+            <li>Digital Marketing for Pharma Brands</li>
+        </ul>
+    </section>
+
+    <!-- Who We Serve -->
+    <section id="clients">
+        <h2>Who We Serve</h2>
+        <ul>
+            <li>Hospitals & Clinics</li>
+            <li>Pharmaceutical Manufacturers</li>
+            <li>Doctors & Healthcare Professionals</li>
+            <li>Medical Distributors</li>
+        </ul>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: info@pharmamarketing.com</p>
+        <p>Phone / WhatsApp: +255682845415</p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2026 Pharma Marketing Solutions. All rights reserved.</p>
+    </footer>
+
+<a href="https://wa.me/255682845415?text=Hello%20I%20am%20interested%20in%20your%20pharmaceutical%20marketing%20services"
+   class="whatsapp-button" target="_blank">
+    💬 Chat on WhatsApp
+</a>
+</body>
+</html>
